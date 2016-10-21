@@ -1,0 +1,72 @@
+{
+  "title": "Série A",
+  "exercises": [
+    {
+      "name": "Esteira",
+      "category": "Aeróbico",
+      "duration": "10 minutes"
+    },
+    {
+      "name": "Extensão de Perna",
+      "category": "Membros Inferiores",
+      "seriesCount": 3,
+      "repeatCount": 10,
+      "weight": 40
+    },
+    {
+      "name": "Puxada Pronada",
+      "category": "Dorsais",
+      "seriesCount": 3,
+      "repeatCount": 10,
+      "weight": 40
+    },
+    {
+      "name": "Leg 45",
+      "category": "Membros Inferiores",
+      "seriesCount": 3,
+      "repeatCount": 12,
+      "weight": 90
+    },
+    {
+      "name": "Serratil (Pull Down) Corda",
+      "category": "Dorsais",
+      "seriesCount": 3,
+      "repeatCount": 10,
+      "weight": 18.75
+    },
+    {
+      "name": "Biceps na Polia",
+      "category": "Bíceps",
+      "seriesCount": 3,
+      "repeatCount": 10,
+      "weight": 18.75
+    },
+    {
+      "name": "Remada Máquina",
+      "category": "Dorsais",
+      "seriesCount": 3,
+      "repeatCount": 10,
+      "weight": 42.5
+    },
+    {
+      "name": "Bíceps Martelo",
+      "category": "Bíceps",
+      "seriesCount": 3,
+      "repeatCount": 10,
+      "weight": 8
+    },
+    {
+      "name": "Cadeira Adutora",
+      "category": "Membros Inferiores",
+      "seriesCount": 3,
+      "repeatCount": 12,
+      "weight": 50
+    },
+    {
+      "name": "Abdómen Elevação",
+      "category": "Abdómen/Lombar",
+      "seriesCount": 3,
+      "repeatCount": 20
+    }
+  ]
+}
